@@ -333,7 +333,6 @@ function Picker({
      */
     const onPressClose = useCallback(() => {
         setOpen(false);
-        setSearchText('');
         onClose();
     }, [setOpen, onClose]);
 
@@ -352,7 +351,6 @@ function Picker({
         const isOpen = ! open;
 
         setOpen(isOpen);
-        setSearchText('');
 
         if (isOpen)
             onOpen();
