@@ -1275,6 +1275,8 @@ function Picker({
             onSelectItem(item);
         }
 
+        setSearchText(item[_schema.label])
+
         setValue(state => {
             if (multiple) {
                 let _state = state !== null ? [...state] : [];
