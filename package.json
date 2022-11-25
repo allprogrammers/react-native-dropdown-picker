@@ -1,6 +1,6 @@
 {
-  "name": "react-native-dropdown-picker",
-  "version": "5.4.2",
+  "name": "allprogrammers-react-native-dropdown-picker",
+  "version": "5.4.13",
   "description": "A single / multiple, categorizable, customizable, localizable and searchable item picker (drop-down) component for react native which supports both Android & iOS.",
   "keywords": [
     "picker",
@@ -31,16 +31,16 @@
     "ios",
     "javascript"
   ],
-  "homepage": "https://hossein-zare.github.io/react-native-dropdown-picker-website/",
+  "homepage": "https://github.com/allprogrammers/react-native-dropdown-picker",
   "bugs": {
-    "url": "https://github.com/hossein-zare/react-native-dropdown-picker/issues"
+    "url": "https://github.com/allprogrammers/react-native-dropdown-picker/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hossein-zare/react-native-dropdown-picker.git"
   },
   "license": "MIT",
-  "author": "Hossein Zare",
+  "author": "Muhammad Hamza Ali",
   "main": "index.js",
   "types": "index.d.ts",
   "dependencies": {},
@@ -66,5 +66,8 @@
     "eslint-plugin-react-native": "^3.10.0",
     "prettier": "^2.2.1",
     "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

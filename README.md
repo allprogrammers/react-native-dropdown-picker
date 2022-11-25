@@ -1,3 +1,5 @@
+# This component is created to be used with an autocomplete API and has been modified from the original version. The details can be found below. 
+
 # React Native Dropdown Picker 5.x
 
 <p float="left">
