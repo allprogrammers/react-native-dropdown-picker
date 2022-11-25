@@ -1,6 +1,6 @@
 {
   "name": "allprogrammers-react-native-dropdown-picker",
-  "version": "5.4.13",
+  "version": "5.4.14",
   "description": "A single / multiple, categorizable, customizable, localizable and searchable item picker (drop-down) component for react native which supports both Android & iOS.",
   "keywords": [
     "picker",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hossein-zare/react-native-dropdown-picker.git"
+    "url": "git+https://github.com/allprogrammers/react-native-dropdown-picker.git"
   },
   "license": "MIT",
   "author": "Muhammad Hamza Ali",
